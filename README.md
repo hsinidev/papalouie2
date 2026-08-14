@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Papalouie2
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Papalouie2&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Papalouie2 Header Banner" />
+
+  <h1>🚀 Papalouie2</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/papalouie2"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Papalouie2** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,67 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Papalouie2 - Play Online for Free
-
-## Overview
-Play Papalouie2 online for free. Unblocked and available on all devices. Experience the best Papalouie2 gameplay now!
-
-### Game Details & Guide
-# Papalouie2 Browser Game Guide
-## Section 1: Game Overview
-
-Papalouie2 is a unique browser game that combines elements of puzzle games, adventure games, and role-playing games in one cohesive experience. Players take on the role of Pope Leo II, tasked with guiding his papacy through various challenges and obstacles as he navigates between different countries, diplomacy, and strategic decisions.
-
-## Section 2: How to Play
-
-### Controls
-• Use your mouse or keyboard to navigate the world map
-• Click on icons to interact with them
-• Type in speech bubbles to respond to characters
-• Tap on buttons to perform actions
-• Drag and drop objects to solve puzzles
-
-### Objective
-
-As Pope Leo II, your goal is to establish a strong papacy by balancing diplomacy, economic development, and military power. You must also manage the papal family's relationships and protect them from potential threats.
-
-## Section 3: Tips and Tricks for Success
-• Focus on building up your papal influence through diplomacy and trade
-• Invest in education and research to improve your papacy's reputation
-• Manage your military resources wisely, as they can be valuable assets
-• Build strong relationships with key characters to unlock new opportunities
-• Be prepared to adapt to changing circumstances, such as unexpected events or shifts in world power dynamics
-
-### Specific Strategies for Different Situations
-• During the Middle Ages era, focus on building up your papal influence through diplomacy and trade
-• In the Renaissance era, prioritize investing in education and research to improve your papacy's reputation
-• In modern times, use your military resources strategically to defend against threats or expand your territory
-
-## Section 4: Why You Should Play It
-
-Papalouie2 offers a captivating blend of strategy, puzzle-solving, and role-playing elements that makes it an engaging and rewarding experience for players. With its unique setting and challenging gameplay, Papalouie2 is sure to keep you entertained for hours on end.
-
-By mastering the game's mechanics and developing effective strategies, players can unlock new levels, characters, and experiences as they progress through the papacy. With a rich storyline and engaging atmosphere, Papalouie2 has something for everyone who enjoys games like The Sims, Animal Crossing, or Stardew Valley.
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
